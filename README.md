@@ -1,8 +1,4 @@
-# This is my version of the README
-
----
-
-Make sure to personalize your welcome message with something unique!
+README Unity Project - Learning C#
 
 # BookContents
 Public repo of the Learning C# with Unity 3D book contents
